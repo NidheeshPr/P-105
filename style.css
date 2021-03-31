@@ -1,0 +1,15 @@
+body{
+    background: linear-gradient(#1c4d29 0%, #182587 100% );
+}
+.name_of_objacts{
+    color: purple;
+    font-size: 20px;
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px; 
+}
+#heading{
+    color: red;
+}
